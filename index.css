@@ -1,0 +1,40 @@
+#proj-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#field{
+    margin: 0px 182px;
+    border: 2px solid red;
+    height: 60vh;
+    width: 70vw;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ .btn{
+    margin: 20px 20px;
+    font-size: 1.3rem;
+    color: azure;
+    background-color: brown;
+    border-radius: 20px;
+    height: 70px;
+    cursor: pointer;
+}
+.showpassword{
+    height: 30vh;
+    width: 62.5vw;
+    margin: 20px 50px;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: 600;
+    color:black;
+}
